@@ -1,6 +1,6 @@
 ### Olá eu sou , Geovanne Fernandes 👋 <img align="right" alt="GeovanneDev-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/GSri30/GSri30/main/profile.gif?token=ANBXICR6B3NXNHCWZ5L7X6S747TPK">
 
- <a href="https://github.com/Emylamass">
+ <a href="">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GeovanneDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanneDev&layout=compact&langs_count=7&theme=dracula"/>
   
